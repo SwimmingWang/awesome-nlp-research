@@ -30,6 +30,9 @@
 ### Paper2Any
 - Repo: https://github.com/OpenDCAI/Paper2Any
 
+### Edit-Banana
+- Repo: https://github.com/BIT-DataLab/Edit-Banana
+
 ---
 
 ## PPT Generation
@@ -39,9 +42,6 @@
 
 ### Paper2Any
 - Repo: https://github.com/OpenDCAI/Paper2Any
-
-### Edit-Banana
-- Repo: https://github.com/BIT-DataLab/Edit-Banana
 
 ---
 
