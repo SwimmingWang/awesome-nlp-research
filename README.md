@@ -2,6 +2,7 @@
 
 ## Paper writing
 1. [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)
+2. editing figures: [AutoFigure-Edit](https://github.com/ResearAI/AutoFigure-Edit)
 
 ## PPT
 1. [paper-ppt-agent](https://github.com/CRui5in/paper-ppt-agent)
