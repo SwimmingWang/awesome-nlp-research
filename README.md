@@ -2,10 +2,12 @@
 
 ## Related paper searching
 1. [AcademicAgent](https://github.com/Jennyee1/AcademicAgent)
+2. [daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced)
 
 ## Paper writing
 1. [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)
 2. editing figures: [AutoFigure-Edit](https://github.com/ResearAI/AutoFigure-Edit)
+3. [Memento-Skills](https://github.com/Memento-Teams/Memento-Skills)
 
 ## PPT
 1. [paper-ppt-agent](https://github.com/CRui5in/paper-ppt-agent)
