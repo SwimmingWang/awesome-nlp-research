@@ -6,11 +6,16 @@
 
 ## Paper writing
 1. [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)
-2. editing figures: [AutoFigure-Edit](https://github.com/ResearAI/AutoFigure-Edit)
-3. [Memento-Skills](https://github.com/Memento-Teams/Memento-Skills)
+2. [Memento-Skills](https://github.com/Memento-Teams/Memento-Skills)
+
+## Figure
+1. [AutoFigure-Edit](https://github.com/ResearAI/AutoFigure-Edit)
+2. [Paper2Any](https://github.com/OpenDCAI/Paper2Any)
 
 ## PPT
 1. [paper-ppt-agent](https://github.com/CRui5in/paper-ppt-agent)
+2. [Paper2Any](https://github.com/OpenDCAI/Paper2Any)
+3. [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana)
 
 ## Auto research (to be tested)
 1. [ml-intern](https://github.com/huggingface/ml-intern)
