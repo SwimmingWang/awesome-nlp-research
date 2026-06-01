@@ -17,6 +17,9 @@
 2. [Paper2Any](https://github.com/OpenDCAI/Paper2Any)
 3. [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana)
 
+## Paper formatting
+1. [PaperFit](https://github.com/OpenRaiser/PaperFit)
+
 ## Auto research (to be tested)
 1. [ml-intern](https://github.com/huggingface/ml-intern)
 2. [feynman](https://github.com/companion-inc/feynman)
