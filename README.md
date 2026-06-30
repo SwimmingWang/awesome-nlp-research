@@ -33,6 +33,8 @@
 ### Edit-Banana
 - Repo: https://github.com/BIT-DataLab/Edit-Banana
 
+### drawio-diagram-builder-skill
+- Repo: https://github.com/Will-hxw/drawio-diagram-builder-skill
 ---
 
 ## PPT Generation
